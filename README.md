@@ -35,6 +35,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Consul Project](https://consulproject.org/en/) – Free software for citizen participation.
 - [FixMyStreet](https://www.fixmystreet.com/) – Report local problems like potholes and broken lights.
 - [OpenStates](https://openstates.org/) – Discover and track legislation across US states.
+- [Crime Brasil](https://crimebrasil.com.br) – Open data platform consolidating Brazilian public-safety microdata (3M+ incidents, city and neighbourhood level, 2022-2026) with a free API.
 
 ## Global Governance & Open Data
 
